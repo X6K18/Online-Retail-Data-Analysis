@@ -1,3 +1,9 @@
-data/
+# Ignore all files in data and documents
+data/*
+documents/*
 
-documents/
+# Keep README files
+!data/README.md
+!data/data_dictionary_clean.md
+!data/processed/README.md
+!documents/README.md
