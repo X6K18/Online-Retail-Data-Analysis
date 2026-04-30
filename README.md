@@ -286,4 +286,6 @@ Phan Trong Nguyen
 
 ## Contact
 - GitHub: https://github.com/X6K18
+- Email: pn629503@gmail.com
+- Phone: 0373649666
 
